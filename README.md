@@ -1,5 +1,5 @@
 - Howdy, I'm @aubreyalfonzo
-- www: apohl.ch
+- www: apohl.xyz
 - IG: @aubreyalfonzo
 
 <!---
