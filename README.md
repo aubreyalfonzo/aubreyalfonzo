@@ -1,6 +1,6 @@
-- Howdy, I'm @aubreyalfonzo
+- Howdy, I'm @apohl.xyz
 - www: apohl.xyz
-- IG: @aubreyalfonzo
+- IG: @apohl.xyz
 
 <!---
 aubreyalfonzo/aubreyalfonzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
